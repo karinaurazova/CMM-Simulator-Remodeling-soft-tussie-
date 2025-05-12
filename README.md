@@ -90,6 +90,15 @@ where:
 ### With Mechanical Feedback
 ![feedback](https://drive.google.com/uc?id=1-aHKGuP-ZxZlbG7DfAkOXBufJYmEWZV2)
 
+## Example of how the simulator works
+![Example6](data/5266962874222374895.jpg)
+![Example1](data/5265207598397911194.jpg)
+![Example2](data/5265207598397911198.jpg)
+![Example3](data/5265207598397911201.jpg)
+![Example4](data/5265207598397911230.jpg)
+![Example5](data/5265207598397911232.jpg)
+
+
 ## Repository Structure
 ```
 CMM_Simulator/
@@ -98,8 +107,10 @@ CMM_Simulator/
 │   ├── models.py          # Core mathematical models
 │   └── constants.py       # Default parameters
 └── ui/
-    ├── gui.py             # Graphical interface
-    └── cli.py             # Command line interface
+|   ├── gui.py             # Graphical interface
+|   └── cli.py             # Command line interface
+└── data/
+
 ```
 
 ## Contributing
