@@ -127,5 +127,5 @@ For questions, contact: karina_urazova@icloud.com
 ***
 
 **Thank you for your interest in the CMM Simulator project. This framework provides valuable tools for studying soft tissue remodeling in response to mechanical loading.**
-```
+
 
