@@ -1,0 +1,43 @@
+{
+  "__bytecode.const": {
+    "blob_name": ".bytecode",
+    "blob_size": 5667987,
+    "input_size": 5690395
+  },
+  "__constants.const": {
+    "blob_name": "",
+    "blob_size": 865,
+    "input_size": 2206
+  },
+  "module.__main__.const": {
+    "blob_name": "__main__",
+    "blob_size": 857,
+    "input_size": 1372
+  },
+  "module.core.const": {
+    "blob_name": "core",
+    "blob_size": 110,
+    "input_size": 227
+  },
+  "module.core.models.const": {
+    "blob_name": "core.models",
+    "blob_size": 3753,
+    "input_size": 5509
+  },
+  "module.ui.cli.const": {
+    "blob_name": "ui.cli",
+    "blob_size": 2963,
+    "input_size": 4521
+  },
+  "module.ui.const": {
+    "blob_name": "ui",
+    "blob_size": 106,
+    "input_size": 223
+  },
+  "module.ui.gui.const": {
+    "blob_name": "ui.gui",
+    "blob_size": 7492,
+    "input_size": 11349
+  },
+  "total": 1109
+}
