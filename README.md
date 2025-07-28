@@ -1,5 +1,5 @@
-# CMM Simulator - Remodeling Soft Tissue
-[![DOI](https://zenodo.org/badge/982321255.svg)](https://doi.org/10.5281/zenodo.16313091)
+[![DOI](https://zenodo.org/badge/982321255.svg)](https://doi.org/10.5281/zenodo.16313091) # CMM Simulator - Remodeling Soft Tissue
+
 This repository contains Python implementations of Constrained Mixture Models (CMM) for analyzing stress in soft tissues under various deformation protocols, with and without mechanical feedback. The models simulate tissue remodeling by considering collagen, elastin, and proteoglycan matrix components.
 
 ## Installation
